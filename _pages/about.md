@@ -9,7 +9,7 @@ profile:
   image: pfp.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New Delhi, India</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biot, France</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Upcoming Masters student at [Eurecom](https://eurecom.fr), I will be pursuing [Masters in Computer Science, Data Science Track](https://www.eurecom.fr/en/teaching/master-computer-science/msc-computer-science-data-science-track). I did my Bachelors in Technology with a major in Information Technology and Mathematical Innovation at [Cluster Innovation Centre](https://cic.du.ac.in/), [University of Delhi](https://www.du.ac.in/).
+Masters student at [Eurecom](https://eurecom.fr), I am pursuing [Masters in Computer Science, Data Science Track](https://www.eurecom.fr/en/teaching/master-computer-science/msc-computer-science-data-science-track). I completed my Bachelors in Technology with a major in Information Technology and Mathematical Innovation at [Cluster Innovation Centre](https://cic.du.ac.in/), [University of Delhi](https://www.du.ac.in/).
 
 I am really passionate about data science, machine learning, computer vision, and software engineering. I sometimes contribute to open-source in my free time; you can find my work in my [GitHub profile](https://github.com/Naman-Priyadarshi).
 
@@ -25,7 +25,7 @@ Some other things I’m passionate about are Video Games and Music. I follow com
 
 Currently I'm working on [SciCookie](https://github.com/osl-incubator/scicookie) as a Software Developer Intern at [Open Science Labs](https://opensciencelabs.org) (OSL)
 
-I have previously worked at [Software and Computational Systems Lab](https://www.sosy-lab.org/), [Ludwig Maximilian University of Munich](https://www.lmu.de/de/index.html) under Dr. Philipp Wendler. I worked on the software [BenchExec](https://github.com/sosy-lab/benchexec) (A Framework for Reliable Benchmarking and Resource
+I have previously worked at [Open Science Labs](https://opensciencelabs.org) (OSL) on [SciCookie](https://github.com/osl-incubator/scicookie) as a Software Developer Intern and [Software and Computational Systems Lab](https://www.sosy-lab.org/), [Ludwig Maximilian University of Munich](https://www.lmu.de/de/index.html) under Dr. Philipp Wendler. I worked on the software [BenchExec](https://github.com/sosy-lab/benchexec) (A Framework for Reliable Benchmarking and Resource
 Measurement).
 
 Contact me at: namanpriyadarshicr7 [at] gmail.com

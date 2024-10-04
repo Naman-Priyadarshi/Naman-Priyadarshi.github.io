@@ -10,7 +10,10 @@ nav_order: 5
 ## Open-source Software Development Intern ##
 ### [Open Science Labs](https://opensciencelabs.org) ###
 <br> February - June 2024 | Remote
-- The project proposes to Improve [SciCookie](https://github.com/osl-incubator/scicookie)'s Documentation, which includes implementing a new documentation engine, adding doctrings, creating new tutorials and examples.
+- The project proposed to Improve [SciCookie](https://github.com/osl-incubator/scicookie)'s Documentation, which includes implementing a new documentation engine, adding doctrings, creating new tutorials and examples.
+- Implemented caching for Conda environments in CI, integrated release-please for release workflows, supported
+ruff as an auto-formatter, added Hugo as a documentation engine option, updated pre-commit configurations,
+and more.
 
 ## Open-source Software Development Intern ##
 ### [Software and Computational Systems Lab](https://www.sosy-lab.org) | [Ludwig Maximilian University of Munich](https://www.lmu.de/de/index.html) ###
