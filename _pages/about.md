@@ -23,8 +23,6 @@ I am really passionate about data science, machine learning, computer vision, an
 
 Some other things I’m passionate about are Video Games and Music. I follow competitive E-Sports ([Counter-Strike](https://blog.counter-strike.net/)) and sometimes compete myself on a national level. I am a huge fan of [Dev1ce](https://www.hltv.org/player/7592/device) and [John Mayer](https://en.wikipedia.org/wiki/John_Mayer). You can find my Steam Profile [here](https://steamcommunity.com/id/EaZy_Steam)
 
-Currently I'm working on [SciCookie](https://github.com/osl-incubator/scicookie) as a Software Developer Intern at [Open Science Labs](https://opensciencelabs.org) (OSL)
-
 I have previously worked at [Open Science Labs](https://opensciencelabs.org) (OSL) on [SciCookie](https://github.com/osl-incubator/scicookie) as a Software Developer Intern and [Software and Computational Systems Lab](https://www.sosy-lab.org/), [Ludwig Maximilian University of Munich](https://www.lmu.de/de/index.html) under Dr. Philipp Wendler. I worked on the software [BenchExec](https://github.com/sosy-lab/benchexec) (A Framework for Reliable Benchmarking and Resource
 Measurement).
 
