@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be joining [Eurecom](https://eurecom.fr) in Nice, France for my [Masters in Computer Science, Data Science Track](https://www.eurecom.fr/en/teaching/master-computer-science/msc-computer-science-data-science-track).
+I will be joining [Eurecom](https://eurecom.fr) in Côte d'Azur, South of France for my [Masters in Computer Science, Data Science Track](https://www.eurecom.fr/en/teaching/master-computer-science/msc-computer-science-data-science-track).
