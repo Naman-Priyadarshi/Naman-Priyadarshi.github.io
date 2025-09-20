@@ -9,7 +9,7 @@ profile:
   image: pfp.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biot, France</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antibes, France</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
