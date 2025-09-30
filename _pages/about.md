@@ -19,6 +19,8 @@ social: true  # includes social icons at the bottom of the page
 
 Masters student at [Eurecom](https://eurecom.fr), I am pursuing [Masters in Computer Science, Data Science Track](https://www.eurecom.fr/en/teaching/master-computer-science/msc-computer-science-data-science-track). I completed my Bachelors in Technology with a major in Information Technology and Mathematical Innovation at [Cluster Innovation Centre](https://cic.du.ac.in/), [University of Delhi](https://www.du.ac.in/).
 
+I am currently looking for an internship opportunity for my masters thesis!
+
 I am really passionate about data science, machine learning, computer vision, and software engineering. I sometimes contribute to open-source in my free time; you can find my work in my [GitHub profile](https://github.com/Naman-Priyadarshi).
 
 Some other things I’m passionate about are Video Games and Music. I follow competitive E-Sports ([Counter-Strike](https://blog.counter-strike.net/)) and sometimes compete myself on a national level. I am a huge fan of [Dev1ce](https://www.hltv.org/player/7592/device) and [John Mayer](https://en.wikipedia.org/wiki/John_Mayer). You can find my Steam Profile [here](https://steamcommunity.com/id/EaZy_Steam)
