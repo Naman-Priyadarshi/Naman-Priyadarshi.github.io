@@ -23,8 +23,7 @@ I am really passionate about data science, machine learning, computer vision, an
 
 Some other things I’m passionate about are Video Games and Music. I follow competitive E-Sports ([Counter-Strike](https://blog.counter-strike.net/)) and sometimes compete myself on a national level. I am a huge fan of [Dev1ce](https://www.hltv.org/player/7592/device) and [John Mayer](https://en.wikipedia.org/wiki/John_Mayer). You can find my Steam Profile [here](https://steamcommunity.com/id/EaZy_Steam)
 
-I have previously worked at [Open Science Labs](https://opensciencelabs.org) (OSL) on [SciCookie](https://github.com/osl-incubator/scicookie) as a Software Developer Intern and [Software and Computational Systems Lab](https://www.sosy-lab.org/), [Ludwig Maximilian University of Munich](https://www.lmu.de/de/index.html) under Dr. Philipp Wendler. I worked on the software [BenchExec](https://github.com/sosy-lab/benchexec) (A Framework for Reliable Benchmarking and Resource
-Measurement).
+I have previously worked as an AI Engineer Intern at [IABG](https://www.iabg.de/en/), where I architected a production-grade, VS-NfD-compliant RAG system and agentic pipelines for defense and aeronautical documents. Prior to that, I worked on open-source software development with [Open Science Labs (OSL)](https://opensciencelabs.org/) on SciCookie and with the [Software and Computational Systems Lab](https://www.sosy-lab.org/) at Ludwig Maximilian University of Munich under Dr. Philipp Wendler where I contributed to BenchExec (a framework for reliable benchmarking).
 
 Contact me at: namanpriyadarshicr7 [at] gmail.com
 
@@ -34,6 +33,7 @@ The organisations, institutes, and programs I am currently working for (or under
 
 <p align="center">
   <a href="https://eurecom.fr/" target="_blank"><img src="assets/img/eurecom_logo.jpg" style="width: 200px"/></a>
+  <a href="https://www.iabg.de/en/" target="_blank"><img src="assets/img/iabg.png" style="width: 200px"/></a>
   <a href="https://opensciencelabs.org/" target="_blank"><img src="assets/img/osl_logo.png" style="width: 200px"/></a>
   <a href="https://thegraphnetwork.org/" target="_blank"><img src="assets/img/graph_logo.png" style="width: 200px"/></a>
   <a href="https://www.sosy-lab.org/" target="_blank"><img src="assets/img/sosy_logo.png" style="width: 200px"/></a>

@@ -6,6 +6,13 @@ description:
 nav: true
 nav_order: 5
 ---
+## AI Engineer Intern
+### [IABG](https://www.iabg.de/en/) ###
+<br> April - September 2026 | Munich, Germany
+- Architected a VS-NfD-compliant production-grade RAG system for multilingual (German & English) aeronautical and defence documents.
+- Engineered an end-to-end document ingestion pipeline: parallelised dual-VLM processing (Gemma 4 + GLM-OCR) with layout-aware bounding-box extraction, a Bidirectional Spatial Engine for context-aware image captioning, custom HTML/LaTeX table parsing, and granular per-document AI controls.
+- Integrated hybrid Vector + BM25 keyword search with metadata filtering and a multilingual cross-encoder reranker, achieving a +7% relative nDCG uplift over pure dense retrieval on German and English domain specific corpora.
+- Shipped a multi-step agentic pipeline to production: a query router dispatches across Vector and BM25 tools based on query complexity, while Self-RAG regrounds outputs before response — a controlled eval measured +7pt Hit@1 and +3.5pt MRR over the non-agentic baseline; also prototyped a domain-specific Knowledge Graph schema achieving 0.98 precision on LLM-based triple extraction.
 
 ## Open-source Software Development Intern ##
 ### [Open Science Labs](https://opensciencelabs.org) ###
